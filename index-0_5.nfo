@@ -9,6 +9,20 @@
     (license "GPL 2+ / CC-by-sa 3.0")
     (url "https://raw.githubusercontent.com/SuperTux/addons/master/repository/lolkat-levels_v2.zip")
     (md5 "fbd906c41fcfee8fd58175ef1c64bcb7")
+    (screenshot-list
+      (screenshot
+        (text "This is Tux")
+        (url "")
+        (url-local "*") 
+      )
+      (screenshot
+        (text "This looks like Tux")
+        (url "")
+        (url-local "*") 
+      )
+    )
+    (rating 4)
+    (difficulty 5)
    )
 
   (supertux-addoninfo
