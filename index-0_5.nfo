@@ -14,12 +14,12 @@
     (screenshots
       (screenshot
         (text "This is Tux")
-        (url "")
+        (url "http://hagemeier.ch.dd24316.kasserver.com/crystal-mine-01.png")
         (url-local "*") 
       )
       (screenshot
         (text "This looks like Tux")
-        (url "")
+        (url "http://hagemeier.ch.dd24316.kasserver.com/crystal-mine-02rez.png")
         (url-local "*") 
       )
     )
