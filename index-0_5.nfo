@@ -12,18 +12,17 @@
     (md5 "37d23a313764835275c214d3c48cb405")
     (rating 4)
     (difficulty 5)
-    (screenshots
-      (screenshot
-        (text "This is Tux")
-        (url "http://hagemeier.ch.dd24316.kasserver.com/crystal-mine-01.png")
-        (url-local "*") 
-      )
-      (screenshot
-        (text "This looks like Tux")
-        (url "http://hagemeier.ch.dd24316.kasserver.com/rsz_crystal-mine-02.png")
-        (url-local "*") 
-      )
+  (screenshots
+    (screenshot
+      (text "This is Tux")
+      (url "http://hagemeier.ch.dd24316.kasserver.com/crystal-mine-01.png")
+      (url-local "crystal.png")
     )
+    (screenshot
+      (text "This looks like Tux")
+      (url "http://hagemeier.ch.dd24316.kasserver.com/rsz_crystal-mine-02.png")
+    )
+  )
    )
 
   (supertux-addoninfo
