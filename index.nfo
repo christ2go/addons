@@ -4,7 +4,7 @@
 	  (title "Dungeon Island")
 	  (author "Torfi Gunnarsson")
 	  (license "Free to be distributed via the SuperTux Add-on Manager")
-	  (http-url "https://raw.githubusercontent.com/SuperTux/addons/master/Worldmaps/dungeon_island.zip")
+	  (http-url "https://github.com/christ2go/addons/raw/master/Worldmaps/lolkat.zip")
 	  (file "dungeon_island.zip")
 		(md5 "ca521483362a150aaada2c191e48efcd")
 	)
