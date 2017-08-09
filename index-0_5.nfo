@@ -3,7 +3,7 @@
 
   (supertux-addoninfo
     (id "lolkat-levels")
-    (version 4)
+    (version 2)
     (type "worldmap")
     (title "Lolkat's Levels")
     (author "Lolkat")
